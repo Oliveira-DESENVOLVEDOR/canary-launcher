@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "Tibia",
-	"newClientUrl" : "https://github.com/Oliveira-DESENVOLVEDOR/emberBlaze-update/archive/refs/heads/main.zip",
+	"clientFolder": "emberBlaze-update",
+	"newClientUrl" : "https://github.com/Oliveira-DESENVOLVEDOR/emberBlaze-update/releases/download/emberBlaze-update/emberBlaze-update.zip",
 	"clientExecutable": "client.exe"
 }
