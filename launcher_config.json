@@ -23,7 +23,7 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 			"name": "bin"
 		}
 	],
-	"clientFolder": "emberBlaze-update",
-	"newClientUrl" : "https://github.com/Oliveira-DESENVOLVEDOR/emberBlaze-update/releases/download/emberBlaze-update/emberBlaze-update.zip",
+	"clientFolder": "ragnarOT-update",
+	"newClientUrl" : "https://github.com/Oliveira-DESENVOLVEDOR/ragnarOT-update/releases/download/ragnarOT-update/ragnarOT-update.zip",
 	"clientExecutable": "client.exe"
 }
